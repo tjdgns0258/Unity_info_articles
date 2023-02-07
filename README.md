@@ -10,3 +10,7 @@ https://www.jacksondunstan.com/articles/5397
 
 * Async, Task, Job 비교 활용 글   
 https://blog.logrocket.com/performance-unity-async-await-tasks-coroutines-c-job-system-burst-compiler/
+
+
+* C# 파일 읽기 및 처리 속도 효율에 관한 글    
+https://cc.davelozinski.com/c-sharp/the-fastest-way-to-read-and-process-text-files
