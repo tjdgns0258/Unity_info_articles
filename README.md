@@ -14,3 +14,6 @@ https://blog.logrocket.com/performance-unity-async-await-tasks-coroutines-c-job-
 
 * C# 파일 읽기 및 처리 속도 효율에 관한 글    
 https://cc.davelozinski.com/c-sharp/the-fastest-way-to-read-and-process-text-files
+
+* RayCast 3D/2D 화면 좌표 변환 관련 글   
+https://gamedevbeginner.com/how-to-convert-the-mouse-position-to-world-space-in-unity-2d-3d/#screen_to_ray
