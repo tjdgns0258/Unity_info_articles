@@ -23,3 +23,6 @@ https://prog.world/8-reasons-to-ditch-coroutine-for-async/
 
 * Unity 웹 캐시 사용하기   
 https://meetup.nhncloud.com/posts/354
+
+* Unity 최적화 관련 블로그   
+https://blog.unity.com/kr/games/optimize-your-mobile-game-performance-tips-on-profiling-memory-and-code-architecture-from
