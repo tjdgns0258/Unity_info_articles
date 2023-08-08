@@ -26,3 +26,4 @@ https://meetup.nhncloud.com/posts/354
 
 * Unity 최적화 관련 블로그   
 https://blog.unity.com/kr/games/optimize-your-mobile-game-performance-tips-on-profiling-memory-and-code-architecture-from
+https://hkn10004.tistory.com/29
